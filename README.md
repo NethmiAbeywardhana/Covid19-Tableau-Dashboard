@@ -1,14 +1,13 @@
-````markdown
-##COVID-19 Global Analytics Dashboard
+# COVID-19 Global Analytics Dashboard
 
 
-# Project Overview
+## Project Overview
 This project is an interactive COVID-19 analytics dashboard built using Tableau.  
 The dashboard provides insights into global COVID-19 trends including total cases, deaths, infection rates, and forecasting analysis across different countries and continents.
 
 The goal of this project is to analyze pandemic trends visually and present meaningful insights through interactive data visualizations.
 
-# Dashboard Features
+## Dashboard Features
 - Global COVID-19 case analysis
 - Total deaths and infection percentage tracking
 - Continent-wise death comparison
@@ -17,7 +16,7 @@ The goal of this project is to analyze pandemic trends visually and present mean
 - Interactive dashboard filters and actions
 - KPI cards for quick insights
 
-# Key Insights (Data Analysis Findings)
+## Key Insights (Data Analysis Findings)
 - Europe recorded the highest total deaths among all continents, indicating a severe early impact of the pandemic.
 - North America followed closely, driven by multiple waves of infection, especially in the United States.
 - Infection growth was not uniform globally - countries experienced different wave patterns over time.
@@ -28,24 +27,24 @@ The goal of this project is to analyze pandemic trends visually and present mean
 - Post-2021 trends show a slowdown in infection growth, possibly due to vaccination rollout and interventions.
 - Overall, population size and government response played a key role in shaping outcomes across countries.
 
-# Tools & Technologies Used
+## Tools & Technologies Used
 - Tableau
 - Microsoft Excel
 - COVID-19 Dataset
 
-# Key Insights
+## Key Insights
 - Europe recorded one of the highest total death counts during the analyzed period.
 - Infection growth trends varied significantly across countries.
 - Forecast analysis showed continued growth patterns in major regions.
 - Geographic visualizations helped identify heavily impacted areas globally.
 
-# Dashboard Preview
+## Dashboard Preview
 https://github.com/NethmiAbeywardhana/Covid19-Tableau-Dashboard/blob/main/Covid19-Tableau-Dashboard/screenshots/dashboard.png
 
-# Tableau Public Dashboard
+## Tableau Public Dashboard
 https://public.tableau.com/app/profile/nethmi.abeywardhana/viz/Covid-19GlobalAnalyticsDashboard/Dashboard1
 
-# Skills Demonstrated
+## Skills Demonstrated
 - Data Visualization
 - Dashboard Design
 - Data Storytelling
@@ -54,6 +53,6 @@ https://public.tableau.com/app/profile/nethmi.abeywardhana/viz/Covid-19GlobalAna
 - Geographic Visualization
 - KPI Reporting
 
-# Author
+## Author
 Nethmi Abeywardhana
 ````
